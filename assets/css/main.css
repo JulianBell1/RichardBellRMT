@@ -2564,27 +2564,27 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: /*#5e42a6*/ #293f50;
+					color: /*#5e42a6*/ /*#293f50*/ #402950;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: /*#493382*/ #293f50;
+					color: /*#493382*/ /*#293f50*/ #402950;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: /*#5052b5*/ #293f50;
+					color: /*#5052b5*/ /*#293f50*/ #402950;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: /*#3e4094*/ #293f50;
+					color: /*#3e4094*/ /*#293f50*/ #402950;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: /*#b74e91*/ #293f50;
+					color: /*#b74e91*/ /*#293f50*/ #402950;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: /*#953d75*/ #293f50;
+					color: /*#953d75*/ /*#293f50*/ #402950;
 				}
 
 /* Image */
@@ -3268,11 +3268,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: /*#5e42a6*/ /*#44118C*/ #293f50;
+			background-color: /*#5e42a6*/ /*#44118C*/ #281e30;
 		}
 
 		.wrapper.style1-alt {
-			background-color: /*#493382*/ #293f50;
+			background-color: /*#493382*/ #281e30;
 		}
 
 		.wrapper.style2 {
@@ -3280,7 +3280,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2-alt {
-			background-color: /*#3e4094*/ #293f50;
+			background-color: /*#3e4094*/ #281e30;
 		}
 
 		.wrapper.style3 {
@@ -3552,7 +3552,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: /*#312450*/ /*#1A0859*/ #293f50;
+		background: /*#312450*/ /*#1A0859*/ /*#293f50*/ #1e1129;
 		cursor: default;
 		height: 100vh;
 		left: 0;
